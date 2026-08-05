@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Justin Proctor!
 
-I'm currently completing a **Master of Marine Biology** at **James Cook University** in Townsville, Australia, where I'm developing skills in marine ecology, data science, GIS, and bioinformatics. I previously earned my **B.S. in Biology** from California Polytechnic State University (Cal Poly), with a concentration in Wildlife and Biodiversity Conservation.
+I'm currently completing a **Master of Marine Biology** at **James Cook University** in Townsville, Australia, where I'm developing skills in marine ecology, data science, GIS, and bioinformatics. I previously earned my **B.S. in Biology** from California Polytechnic State University, San Luis Obispo with a concentration in Wildlife and Biodiversity Conservation.
 
 This GitHub serves as a portfolio of the programming, analytical, and research skills I've developed throughout my graduate studies. My repositories include coursework and independent projects involving **R**, **GIS**, **marine genomics**, **Google Earth Engine**, **bioinformatics**, and **reproducible scientific workflows** using Git and GitHub.
 

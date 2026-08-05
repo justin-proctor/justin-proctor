@@ -23,5 +23,5 @@ Outside of the classroom, I've been fortunate to gain experience in environmenta
 If you're interested in marine science, conservation, or ecological data analysis, feel free to explore my repositories or get in touch!
 
 ## 📫 Contact
-- LinkedIn: [...](https://www.linkedin.com/in/justin-proctor-091a9617a/)
+- LinkedIn: https://www.linkedin.com/in/justin-proctor-091a9617a/
 - Email: justinproctor24@gmail.com
